@@ -1,0 +1,14 @@
+<resources>
+    <declare-styleable name="FullscreenAttrs">
+        <attr name="fullscreenBackgroundColor" format="color" />
+        <attr name="fullscreenTextColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="SudokuBoard">
+        <attr name="boardColor" format="color"/>
+        <attr name="cellFillColor" format="color"/>
+        <attr name="cellsHighlightColor" format="color"/>
+        <attr name="letterColor" format="color"/>
+        <attr name="letterColorSolve" format="color"/>
+        <attr name="letterColorError" format="color"/>
+    </declare-styleable>
+</resources>
